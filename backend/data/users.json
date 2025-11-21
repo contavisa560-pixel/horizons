@@ -1,0 +1,275 @@
+[
+  {
+    "id": "user1",
+    "name": "Chef Demo",
+    "email": "chef@culinaria.com",
+    "passwordHash": "$2a$10$RSMF2TghgCLO6XCTwMN8U.YxNRYQSKWduI9u88sHgGZVqcfvnnQ1a",
+    "level": 1,
+    "points": 20,
+    "favorites": [],
+    "picture": "/uploads/user1_avatar.jpg",
+    "isPremium": false,
+    "phone": "",
+    "language": "Português",
+    "security": {
+      "twoFactorAuth": false
+    }
+  },
+  {
+    "id": "google_103395084327479257201",
+    "name": "Conta Visa",
+    "email": "contavisa560@gmail.com",
+    "picture": "http://localhost:4000/uploads/google_103395084327479257201_1763463507545.jpg",
+    "provider": "google",
+    "level": 1,
+    "points": 0,
+    "favorites": [],
+    "isPremium": false,
+    "settings": {
+      "security": {
+        "twoFactorAuth": false,
+        "recoveryEmail": "m@gmail.com",
+        "notifyLogin": true,
+        "notifyPasswordChange": true,
+        "sessions": [
+          {
+            "id": "sess_1763260227751",
+            "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64",
+            "ip": "127.0.0.1",
+            "createdAt": "2025-11-16T02:30:27.751Z",
+            "current": true
+          }
+        ]
+      },
+      "nutrition": {
+        "diets": [
+          "Omnívora"
+        ],
+        "allergies": [],
+        "goals": [
+          "Ganhar Massa"
+        ],
+        "calorieTarget": null,
+        "macros": {
+          "carb": 72,
+          "protein": 42,
+          "fat": 25
+        }
+      },
+      "darkMode": false,
+      "experience": {
+        "level": "Iniciante",
+        "cuisines": [
+          {
+            "name": "Mexicana",
+            "prof": "Intermédio"
+          },
+          {
+            "name": "Chinesa",
+            "prof": "Intermédio"
+          }
+        ],
+        "techniques": [],
+        "equipment": [],
+        "years": 0,
+        "certifications": [
+          {
+            "name": "bi-academy.pdf",
+            "url": "http://localhost:4000/uploads/google_103395084327479257201_1763130946745.pdf",
+            "uploadedAt": "2025-11-14T14:35:46.796Z"
+          }
+        ]
+      },
+      "theme": "light",
+      "language": "pt",
+      "compactMode": false,
+      "animations": true,
+      "alertLogin": true,
+      "alertSecurity": true,
+      "region": "pt-AO",
+      "dateFormat": "dd/MM/yyyy",
+      "autoLock": 10,
+      "devices": [
+        {
+          "id": 1,
+          "name": "Chrome • Windows 10",
+          "active": true
+        },
+        {
+          "id": 2,
+          "name": "Chrome Mobile • Android",
+          "active": true
+        }
+      ],
+      "backup": null
+    },
+    "savedRecipes": [
+      {
+        "title": "Receita sugerida",
+        "text": "",
+        "steps": "",
+        "savedAt": "2025-11-17T17:05:45.335Z"
+      },
+      {
+        "title": "Receita sugerida",
+        "text": "",
+        "steps": "",
+        "savedAt": "2025-11-17T17:06:17.171Z"
+      },
+      {
+        "title": "Receita sugerida",
+        "text": "",
+        "steps": "",
+        "savedAt": "2025-11-17T17:06:51.495Z"
+      },
+      {
+        "title": "Receita sugerida",
+        "text": "",
+        "steps": "",
+        "savedAt": "2025-11-17T17:07:55.380Z"
+      },
+      {
+        "title": "Receita sugerida",
+        "text": "",
+        "steps": "",
+        "savedAt": "2025-11-17T18:07:35.566Z"
+      }
+    ]
+  },
+  {
+    "id": "user_1763088419015",
+    "name": "mauricio",
+    "email": "ma@gmail.com",
+    "passwordHash": "$2a$10$bnLXmPx08LZhRJT.QXcPd.0XX1bBJ7Nn.ozEHEWRBlZAxNXOi77hO",
+    "provider": "local",
+    "picture": "http://localhost:4000/uploads/user_1763088419015_1763610180214.png",
+    "level": 1,
+    "points": 0,
+    "favorites": [],
+    "isPremium": false,
+    "settings": {
+      "security": {
+        "twoFactorAuth": false,
+        "recoveryEmail": "",
+        "notifyLogin": true,
+        "notifyPasswordChange": true,
+        "sessions": [
+          {
+            "id": "sess_1763098697975",
+            "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64",
+            "ip": "127.0.0.1",
+            "createdAt": "2025-11-14T05:38:17.975Z",
+            "current": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "user_1763088505368",
+    "name": "sonia",
+    "email": "mm@gmail.com",
+    "passwordHash": "$2a$10$AmwjViCWEt7Rh2op.aKbWOM1.SH/B9mRlM6dTQM9F.IFiDP2yEE5C",
+    "provider": "local",
+    "picture": "http://localhost:4000/uploads/user_1763088505368.jpg",
+    "level": 1,
+    "points": 0,
+    "favorites": [],
+    "isPremium": false
+  },
+  {
+    "id": "user_1763091898105",
+    "name": "mmm",
+    "email": "tg@gmail.com",
+    "passwordHash": "$2a$10$hkyquZxIF9ap3kWuUxYrhezQ59gyYq9HxSts8gDyCq17Ip9UM0dde",
+    "provider": "local",
+    "picture": "http://localhost:4000/uploads/user_1763091898105_1763098026272.jpg",
+    "level": 1,
+    "points": 0,
+    "favorites": [],
+    "isPremium": false,
+    "settings": {
+      "darkMode": false,
+      "language": "pt",
+      "security": {
+        "twoFactorAuth": false,
+        "recoveryEmail": "",
+        "notifyLogin": true,
+        "notifyPasswordChange": true,
+        "sessions": [
+          {
+            "id": "sess_1763097992461",
+            "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64",
+            "ip": "127.0.0.1",
+            "createdAt": "2025-11-14T05:26:32.461Z",
+            "current": true
+          }
+        ]
+      },
+      "nutrition": {
+        "diets": [],
+        "allergies": [],
+        "goals": [],
+        "calorieTarget": null,
+        "macros": {
+          "carb": 50,
+          "protein": 25,
+          "fat": 25
+        }
+      }
+    }
+  },
+  {
+    "id": "google_111774323710168148126",
+    "name": "Quim Carruagem",
+    "email": "quimcarruagem@gmail.com",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocJvzRBzfhXmfQeiQCIKgIim5-rFhT8Pb4gCw7IqxvzgdYEEA9ff=s96-c",
+    "provider": "google",
+    "level": 1,
+    "points": 0,
+    "favorites": [],
+    "isPremium": false,
+    "preferences": {},
+    "experience": {},
+    "settings": {
+      "security": {
+        "twoFactorAuth": false,
+        "recoveryEmail": "",
+        "notifyLogin": true,
+        "notifyPasswordChange": true,
+        "sessions": [
+          {
+            "id": "sess_1763156106769",
+            "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64",
+            "ip": "127.0.0.1",
+            "createdAt": "2025-11-14T21:35:06.768Z",
+            "current": true
+          }
+        ]
+      },
+      "theme": "light",
+      "language": "pt",
+      "compactMode": false,
+      "animations": true,
+      "alertLogin": true,
+      "alertSecurity": true,
+      "region": "pt-AO",
+      "dateFormat": "dd/MM/yyyy",
+      "autoLock": 10,
+      "devices": [
+        {
+          "id": 1,
+          "name": "Chrome • Windows 10",
+          "active": true
+        },
+        {
+          "id": 2,
+          "name": "Chrome Mobile • Android",
+          "active": true
+        }
+      ]
+    },
+    "nutrition": {},
+    "security": {}
+  }
+]
